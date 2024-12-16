@@ -80,6 +80,7 @@
   }
   span{
     color: orangered;
+    font-weight:bold;
   }
   
   #skills ul li {
@@ -170,6 +171,7 @@
       flex-direction: column;
       gap: 0.5rem;
     }
+  
     
   
     #hero h1 {
@@ -206,7 +208,7 @@
       padding: 0.5rem;
     }
     form button{
-       background:orange;
+       background-color:orange;
 }
   
     footer {
