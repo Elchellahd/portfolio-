@@ -139,6 +139,9 @@
     flex-direction: column;
     gap: 1rem;
   }
+form input,textarea{
+    outline:none;
+}
   
   form label {
     font-weight: bold;
